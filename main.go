@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/formancehq/search/cmd"
+	"github.com/hanzo-fi/search/cmd"
 )
 
 func main() {

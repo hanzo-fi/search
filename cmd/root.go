@@ -2,7 +2,7 @@ package cmd
 
 import (
 	_ "github.com/bombsimon/logrusr/v3"
-	"github.com/formancehq/go-libs/service"
+	"github.com/hanzo-fi/go-libs/service"
 	"github.com/spf13/cobra"
 )
 

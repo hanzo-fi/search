@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 	"io"
 
-	"github.com/formancehq/search/pkg/es"
+	"github.com/hanzo-fi/search/pkg/es"
 	"github.com/opensearch-project/opensearch-go"
 	"github.com/pkg/errors"
 	"go.opentelemetry.io/otel"

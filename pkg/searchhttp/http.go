@@ -9,12 +9,12 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/formancehq/go-libs/bun/bunpaginate"
+	"github.com/hanzo-fi/go-libs/bun/bunpaginate"
 
 	"github.com/aquasecurity/esquery"
-	"github.com/formancehq/go-libs/api"
-	"github.com/formancehq/go-libs/logging"
-	"github.com/formancehq/search/pkg/searchengine"
+	"github.com/hanzo-fi/go-libs/api"
+	"github.com/hanzo-fi/go-libs/logging"
+	"github.com/hanzo-fi/search/pkg/searchengine"
 	"github.com/pkg/errors"
 	"github.com/tidwall/gjson"
 )

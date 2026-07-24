@@ -5,9 +5,9 @@ import (
 	"encoding/base64"
 	"encoding/json"
 
-	"github.com/formancehq/go-libs/bun/bunpaginate"
+	"github.com/hanzo-fi/go-libs/bun/bunpaginate"
 
-	"github.com/formancehq/search/pkg/searchengine"
+	"github.com/hanzo-fi/search/pkg/searchengine"
 )
 
 type cursorTokenInfo struct {
